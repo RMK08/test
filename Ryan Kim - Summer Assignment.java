@@ -8,7 +8,7 @@ public class Tester {
          } 
          return t; 
     }
-    // test comment
+    // test comment 2
     public static int nthPrime(int n) {
         int counter = -1;
         int prime = 1; 
